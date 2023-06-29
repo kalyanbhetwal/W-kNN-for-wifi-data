@@ -1,2 +1,3 @@
 # W-kNN-for-wifi-data
-This project implements indoor navigation system using smart phone in existing WLAN infrastructure. 
+
+This project implements an indoor navigation system using a smartphone sensor in existing WLAN infrastructure. 
